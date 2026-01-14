@@ -25,17 +25,12 @@
 ```
 <div align="center">
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55">&nbsp; **SIVA SANKAR RACHAMADUGU**
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="55">&nbsp; **SIVASANKAR RACHAMADUGU**
 ### 🎬 Freelancer Video Editor |    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="25">&nbsp; Emerging AI Engineer |  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="25">&nbsp; Automation Explorer
 ### 🎓 B.Tech CSE (AI & ML) | 🌱 Learning by Building | 🇮🇳 India
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Learner;Freelancer+%26+Video+Editor;Exploring+Machine+Learning;Building+Skills+Step+by+Step" />
-</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RACHAMADUGUSIVASANKAR&style=flat&color=blue)
-
-
  
 <a href="https://www.linkedin.com/in/sivasankar-rachamadugu/" ><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username sivasankar-rachamadugu" ></a>
 <a href="https://rachamadugusivasankar.github.io/Book-portfolio/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of sivasankar" /></a>
@@ -109,7 +104,7 @@ I code for fun and keep learning new stuff :)
   
 </details>
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 #  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Skills
 
@@ -129,7 +124,7 @@ I code for fun and keep learning new stuff :)
 | Learning | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />  |
 | Editing Tools    | <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/> <img src="https://img.shields.io/badge/PicsArt-FF0066?style=for-the-badge&logo=picsart&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/> |
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> Projects 
@@ -144,32 +139,22 @@ I code for fun and keep learning new stuff :)
 | Fake News Detection | - | [view](https://github.com/RACHAMADUGUSIVASANKAR/Fake-News-Detection) | `HTML` `CSS` `Javascript` `python` `kaggle` `flask`  `scikit-learn` |
 | Freelance Finder | - | [view](https://github.com/RACHAMADUGUSIVASANKAR/FreelanceFinder-Discovering-Opportunities-Unlocking-Potential) | `HTML` `CSS` `Javascript` |
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <!--- -- Metrics ------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> My GitHub Metrics
-<details>
-  <summary><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="25">&nbsp; Expand</summary> 
 
-| ![GitHub Metrics](./github-metrics.svg) | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="450"> |
-| -- | -- |
-
-</details>                     
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
-
-<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> GitHub Excellence Dashboard
-
-![](https://github-profile-trophy.vercel.app/?username=RACHAMADUGUSIVASANKAR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+| ![GitHub Metrics](./github-metrics.svg) | <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400"> |
+| -- | -- |                 
 
 <div align="center" width="100">
     
 | ![](https://github-readme-stats.vercel.app/api?username=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="120">&nbsp; |
 | -- | -- |
 
+
 </div>
+
 
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <div align ="center">
@@ -180,53 +165,50 @@ I code for fun and keep learning new stuff :)
 </picture>
 </div>
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
-> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains. You can find all the social links at [anmolbaranwal.com/links](https://anmolbaranwal.com/links).
+> I've been active across various platforms, whether it's for learning, creating content, trying the platform, or sharing my progress. I've tried a lot of stuff which is why I have a good knowledge of various domains.
 
 <br>
 
 <div align="center">
-  <a href="https://app.daily.dev/anmolbaranwal"><img src="https://img.shields.io/badge/dailydotdev-d5d5d5?style=for-the-badge&logo=dailydotdev&logoColor=0A0209" /></a>
+<a href="https://rachamadugusivasankar.github.io/Book-portfolio/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio of Sivasankar"/></a>
+
+ <br>
+  <a href="https://devpost.com/sivasankar99122" target="_blank">  <img src="https://img.shields.io/badge/Devpost-white?style=for-the-badge&logo=devpost&logoColor=black"/></a>
+<a href="https://www.kaggle.com/sivarach" target="_blank">  <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=black"/></a>
+ 
   <br>
-  <a href="https://www.polywork.com/anmolbaranwal"><img src="https://img.shields.io/badge/polywork-0A0209?style=for-the-badge&logo=polywork&logoColor=d5d5d5" ></a>
-  <a href="https://peerlist.io/anmolbaranwal"><img src="https://img.shields.io/badge/peerlist-0A0209?style=for-the-badge&logo=peerlist&logoColor=d5d5d5" ></a>
-  <br>
-  <a href="https://www.producthunt.com/@anmol-baranwal"><img src="https://img.shields.io/badge/Product%20Hunt-d5d5d5?style=for-the-badge&logo=Product%20Hunt&logoColor=0A0209" /></a>
-  <a href="https://devpost.com/Anmol-Baranwal"><img src="https://img.shields.io/badge/Devpost-d5d5d5?style=for-the-badge&logo=Devpost&logoColor=0A0209" /></a> 
-  <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://img.shields.io/badge/showwcase-d5d5d5?style=for-the-badge&logo=showwcase&logoColor=0A0209" ></a>
-  <br>
-  <a href="https://leetcode.com/anmol4coder/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/anmolbaranwal119"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0209?style=for-the-badge&logo=geeksforgeeks&logoColor=d5d5d5"/></a>
-  <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
-  <a href="https://www.codecademy.com/profiles/AnmolBaranwal"><img src="https://img.shields.io/badge/Codecademy-0A0209?style=for-the-badge&logo=codecademy&logoColor=d5d5d5" /></a> 
+  <a href="https://leetcode.com/234G1A33G4" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/234G1A33G4" target="_blank">  <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/siva234g1a33g4" target="_blank">  <img src="https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+
   <br> 
-  <a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Anmol#7140" >
-  <a href="https://dribbble.com/Anmol-Baranwal/"><img src="https://img.shields.io/badge/Dribbble-d5d5d5?style=for-the-badge&logo=dribbble&logoColor=0A0209" /></a>
-  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Anmol_Codes" ></a>
+  <a href="https://www.linkedin.com/in/sivasankar-rachamadugu/" ><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username sivasankar-rachamadugu" ></a>
+<a href="https://medium.com/@sivasankar99122"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of sivasankar" /></a>
+<a href="mailto:sivasankar99122@gmai.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of sivasankar i.e.   sivasankar99122@gmai.com" /></a>
+<a href="https://x.com/siva_rach"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username siva_rach" ></a>
+
 </div>
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!------------------------------------------------------------------------------------------------------------------------------------------>
 <div align="center">
 
 ## 🎯 **Innovation Philosophy**
 
-### “Learn deeply, build honestly, grow consistently.”
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="100">&nbsp;
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+### “Learn deeply, build honestly, grow consistently.”
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
+
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
+
