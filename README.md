@@ -104,10 +104,9 @@ I code for fun and keep learning new stuff :)
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-#  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> Skills
+##  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> Skills
 
-<img align="left" alt="Coding Animation" width="200" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca">
-
+<div align="center">
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -123,6 +122,7 @@ I code for fun and keep learning new stuff :)
 | Editing Tools    | <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/> <img src="https://img.shields.io/badge/PicsArt-FF0066?style=for-the-badge&logo=picsart&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white"/> |
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+</div>
 <!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="30"> Projects 
@@ -144,16 +144,13 @@ I code for fun and keep learning new stuff :)
 
 <div align="center">
  
-| ![GitHub Metrics](./github-metrics.svg) |  <img  alt="Coding Animation" width="300" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"> |
+| ![GitHub Metrics](./github-metrics.svg) |  <img  alt="Coding Animation" width="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"> |
 | -- | -- |                 
 
-    
 | ![](https://github-readme-stats.vercel.app/api?username=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="120">&nbsp; |
 | -- | -- |
 
-
 </div>
-
 
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <div align ="center">
