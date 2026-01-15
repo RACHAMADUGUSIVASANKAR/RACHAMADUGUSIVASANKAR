@@ -147,9 +147,7 @@ I code for fun and keep learning new stuff :)
 | ![GitHub Metrics](./github-metrics.svg) |  <img  alt="Coding Animation" width="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5"> |
 | -- | -- |                 
 
-| ![](https://github-readme-stats.vercel.app/api?username=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="120">&nbsp; |
-| -- | -- |
-
+![](https://github-readme-stats.vercel.app/api?username=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RACHAMADUGUSIVASANKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 </div>
 
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
